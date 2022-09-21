@@ -1,3 +1,28 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "ichorid",
+      "id": 2509103,
+      "comment_id": 1251593451,
+      "created_at": "2022-09-19T21:43:24Z",
+      "repoId": 492592940,
+      "pullRequestNo": 8
+    },
+    {
+      "name": "ichorid",
+      "id": 2509103,
+      "comment_id": 1253845116,
+      "created_at": "2022-09-21T15:06:32Z",
+      "repoId": 492592940,
+      "pullRequestNo": 8
+    },
+    {
+      "name": "ichorid",
+      "id": 2509103,
+      "comment_id": 1253880690,
+      "created_at": "2022-09-21T15:35:02Z",
+      "repoId": 492592940,
+      "pullRequestNo": 8
+    }
+  ]
 }
